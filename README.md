@@ -1,5 +1,5 @@
 - 👋 Hello, I'm @ali-han
-- 👀 I have an interest in WordPress
+- 👀 Senior WordPress Developer // Frontend & Backend // Full Stack
 - 🌱 Currently learning Flutter
 - 💞️ Seeking collaboration opportunities with Startups
 - 📫 You can contact me on LinkedIn [linkedin/ali-han](https://www.linkedin.com/in/ali-han/)
