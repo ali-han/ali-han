@@ -1,6 +1,6 @@
 - 👋 Hello, I'm @ali-han
-- 👀 Senior WordPress Developer // Frontend & Backend // Full Stack
-- 🌱 Currently learning Flutter
+- 👀 Senior WordPress Developer // Full Stack
+- 🌱 Currently learning AI
 - 💞️ Seeking collaboration opportunities with Startups
 - 📫 You can contact me on LinkedIn [linkedin/ali-han](https://www.linkedin.com/in/ali-han/)
 
